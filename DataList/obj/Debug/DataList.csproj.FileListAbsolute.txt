@@ -1,0 +1,11 @@
+C:\UdemyKurs\c#\DataList\DataList\bin\Debug\DataList.exe.config
+C:\UdemyKurs\c#\DataList\DataList\bin\Debug\DataList.exe
+C:\UdemyKurs\c#\DataList\DataList\bin\Debug\DataList.pdb
+C:\UdemyKurs\c#\DataList\DataList\bin\Debug\FakeData.dll
+C:\UdemyKurs\c#\DataList\DataList\bin\Debug\FakeData.pdb
+C:\UdemyKurs\c#\DataList\DataList\obj\Debug\DataList.csproj.AssemblyReference.cache
+C:\UdemyKurs\c#\DataList\DataList\obj\Debug\DataList.csproj.SuggestedBindingRedirects.cache
+C:\UdemyKurs\c#\DataList\DataList\obj\Debug\DataList.csproj.CoreCompileInputs.cache
+C:\UdemyKurs\c#\DataList\DataList\obj\Debug\DataList.csproj.CopyComplete
+C:\UdemyKurs\c#\DataList\DataList\obj\Debug\DataList.exe
+C:\UdemyKurs\c#\DataList\DataList\obj\Debug\DataList.pdb
